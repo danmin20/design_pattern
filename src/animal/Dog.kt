@@ -1,0 +1,4 @@
+package animal
+
+class Dog {
+}
